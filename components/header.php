@@ -16,7 +16,7 @@ foreach ($movies as $movie) {
 
 <header class="text-gray-600 body-font">
     <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/">
+        <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/daftar-film">
             <img class="ml-3" src="../assets/favicon.png" /><span class="ml-2 text-xl link">Daftar Film</span>
         </a>
         <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400 flex flex-wrap items-center text-base justify-center mt-1">
@@ -34,7 +34,7 @@ foreach ($movies as $movie) {
                     </button>
                     <ul class="bg-white border rounded-sm transform scale-0 group-hover:scale-100 absolute transition duration-150 ease-in-out origin-top min-w-32">
                         <?php foreach ($genres as $genre) : ?>
-                            <a href="?year=<?= $request->year ?>&genre=<?= $genre ?>">
+                            <a href="/daftar-film?year=<?= $request->year ?>&genre=<?= $genre ?>">
                                 <li class="item-link rounded-sm px-3 py-1 hover:bg-gray-100"><?= $genre ?></li>
                             </a>
                         <?php endforeach; ?>
@@ -55,7 +55,7 @@ foreach ($movies as $movie) {
                     </button>
                     <ul class="bg-white border rounded-sm transform scale-0 group-hover:scale-100 absolute transition duration-150 ease-in-out origin-top min-w-32">
                         <?php foreach ($years as $year) : ?>
-                            <a class="w-100" href="/?year=<?= $year ?>&genre=<?= $request->genre ?>">
+                            <a class="w-100" href="/daftar-film?year=<?= $year ?>&genre=<?= $request->genre ?>">
                                 <li class="item-link rounded-sm px-3 py-1 hover:bg-gray-100"><?= $year ?></li>
                             </a>
                         <?php endforeach; ?>
