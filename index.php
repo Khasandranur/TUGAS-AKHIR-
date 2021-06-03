@@ -14,7 +14,7 @@ $request = URLHelper::getMovieRequest();
 <head>
      <meta charset="UTF-8" />
      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-     <title>Daftar Film</title>
+     <title>Waroenk Film</title>
      <link rel="icon" href="./assets/favicon.png" type="image/png" />
      <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
      <style>

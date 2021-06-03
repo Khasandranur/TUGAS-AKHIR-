@@ -1,6 +1,46 @@
 [
   {
     "id": 0,
+    "thumbnail": "https://resizing.flixster.com/aBb69GSI06eCcMSHIPoJlnJZCtE=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzhmOTU4ZmNiLTM1ZTEtNDcyNS1iNzg1LTBjMzZlMTZiMDUzMC53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/war_for_the_planet_of_the_apes",
+    "title": "War For The Planet of The Apes",
+    "genre": "Sci-fi",
+    "description": "Caesar (Andy Serkis) and his apes are forced into a deadly conflict with an army of humans led by a ruthless colonel (Woody Harrelson). After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the colonel are pitted against each other in an epic battle that will determine the fate of both of their species and the future of the planet.",
+    "rating": 9.4,
+    "year": 2017
+  },
+  {
+    "id": 1,
+    "thumbnail": "https://resizing.flixster.com/6YGUWEGpSI5ZvB60YdL3DOvc6Q4=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzdjYWY1MmIzLWViMjQtNDA5My1iOTkwLTliZGE0MmYwNmU1MS53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/okja",
+    "title": "Okja",
+    "genre": "Sci-fi",
+    "description": "For 10 idyllic years, young Mija has been caretaker and constant companion to Okja - a massive animal and an even bigger friend - at her home in the mountains of South Korea. But that changes when family-owned, multinational conglomerate Mirando Corporation takes Okja for themselves and transports her to New York, where an image-obsessed and self-promoting CEO has big plans for Mija's dearest friend. With no particular plan but single-minded in intent, Mija sets out on a rescue mission.",
+    "rating": 8.7,
+    "year": 2017
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://resizing.flixster.com/vm8H0TsMlActmv600PS8bkPrIZ8=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzY1NGZkZmZkLTUyYjMtNDY4OC1iOTRmLTVlYTJjZjZkYjg1OC53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/beauty_and_the_beast_2017",
+    "title": "Beauty and The Beast",
+    "genre": "Fantasy",
+    "description": "Belle (Emma Watson), a bright, beautiful and independent young woman, is taken prisoner by a beast (Dan Stevens) in its castle. Despite her fears, she befriends the castle's enchanted staff and learns to look beyond the beast's hideous exterior, allowing her to recognize the kind heart and soul of the true prince that hides on the inside.",
+    "rating": 9.0,
+    "year": 2017
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://resizing.flixster.com/C4pgWMmI7eJ68plCcxH8rSf3mhQ=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2JiM2VjMjAxLWJmN2YtNDVjOS05Yzc3LTM1OWIwMjA5ZmUzMy53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/the_mummy_2017",
+    "title": "The Mummy",
+    "genre": "Action",
+    "description": "Nick Morton is a soldier of fortune who plunders ancient sites for timeless artifacts and sells them to the highest bidder. When Nick and his partner come under attack in the Middle East, the ensuing battle accidentally unearths Ahmanet, a betrayed Egyptian princess who was entombed under the desert for thousands of years. With her powers constantly evolving, Morton must now stop the resurrected monster as she embarks on a furious rampage through the streets of London.",
+    "rating": 9.0,
+    "year": 2017
+  },
+  {
+    "id": 4,
     "thumbnail": "https://resizing.flixster.com/P3XrfzcI9ycfMEdR6iqwPPv0rvU=/206x305/v2/https://resizing.flixster.com/dH6cVqiBByzFjrjLDr9NW9dSdQY=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzMxOGI1YzBhLWMyMjEtNGUxMS1iM2Q0LWQ4OGMyYzQyZjQyYS53ZWJw",
     "link": "https://www.rottentomatoes.com/m/black_panther_2018",
     "title": "Black Panther",
@@ -10,17 +50,27 @@
     "year": 2018
   },
   {
-    "id": 1,
-    "thumbnail": "https://resizing.flixster.com/PyQVrv0QFQbmFYYCmd6oidSd0AU=/fit-in/200x296.2962962962963/v1.bTsxMzAxOTkzMjtqOzE4ODI1OzEyMDA7MTY4ODsyNTAw",
-    "link": "https://www.rottentomatoes.com/m/avengers_endgame",
-    "title": "Avengers: End Game",
-    "genre": "Sci-fi",
-    "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
-    "rating": 9.4,
-    "year": 2019
+    "id": 5,
+    "thumbnail": "https://resizing.flixster.com/dKse20I2ggl5y5UpmmitWZG5zYk=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzA2OTQ5MjRhLTVlYzItNDBlMS1hMmQ3LWNlMjAyODFlYTVjNS53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/johnny_english_strikes_again_2018",
+    "title": "Johnny English Strike Again",
+    "genre": "Comedy",
+    "description": "The new adventure begins when a cyberattack reveals the identities of all active undercover agents in Britain, leaving Johnny English as the secret service's last hope. Called out of retirement, English dives headfirst into action with the mission to find the mastermind hacker. As a man with few skills and analogue methods, Johnny English must overcome the challenges of modern technology to make this mission a success.",
+    "rating": 8.5,
+    "year": 2018
   },
   {
-    "id": 2,
+    "id": 6,
+    "thumbnail": "https://resizing.flixster.com/UHXfYNLDqLdHdulYTnDILH-qReY=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2MyZWM4MjVhLWQ2MTYtNDEwMy05ZDI5LWNmNjI5Y2Q0MzU1Ny53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/bird_box",
+    "title": "Bird Box",
+    "genre": "Fantasy",
+    "description": "When a mysterious force decimates the population, only one thing is certain -- if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their worst fears. Searching for hope and a new beginning, a woman and her children embark on a dangerous journey through the woods and down a river to find the one place that may offer sanctuary. To make it, they'll have to cover their eyes from the evil that chases them -- and complete the trip blindfolded.",
+    "rating": 9.5,
+    "year": 2018
+  },
+  {
+    "id": 7,
     "thumbnail": "https://resizing.flixster.com/bRNSA34xdPlV0N-2wTQuQjDW_U8=/206x305/v2/https://resizing.flixster.com/1dOEFq-TDKU4MtMZbjO3gwTyK1M=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzhiMWVjNTExLTEwNjMtNDk2NC1iY2JhLTY1YWIyYTk1Njk1ZC53ZWJw",
     "link": "https://www.rottentomatoes.com/m/mission_impossible_fallout",
     "title": "Mission Impossible: Fallout",
@@ -30,7 +80,17 @@
     "year": 2018
   },
   {
-    "id": 4,
+    "id": 8,
+    "thumbnail": "https://resizing.flixster.com/Nw7ly4QPUKT44aMV421dozFEtRM=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzFkMmFkYTI0LWUyZTctNDdlYS1iYjg5LTM4OGYyZjcxZDE4Mi53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/the_meg",
+    "title": "The Meg",
+    "genre": "Action",
+    "description": "Previously thought to be extinct, a massive creature attacks a deep-sea submersible, leaving it disabled and trapping the crew at the bottom of the Pacific. With time running out, a visionary oceanographer recruits rescue diver Jonas Taylor to save the crew and the sea itself from an unimaginable threat -- a 75-foot-long prehistoric shark known as the Megalodon.",
+    "rating": 9.7,
+    "year": 2018
+  },
+  {
+    "id": 9,
     "thumbnail": "https://resizing.flixster.com/wW4vuoQpFQjHac6kMkPkdTWoPzk=/206x305/v2/https://resizing.flixster.com/BTfIie-NvRxbSUkUyLfZs-2wdM0=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2QzNTE2ZWE4LWIyY2MtNDcyMC05ZmNhLWMwZWU3NGNlOGYzYi53ZWJw",
     "link": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
     "title": "Spiderman: Into The Spider-verse",
@@ -38,5 +98,85 @@
     "description": "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world.",
     "rating": 9.7,
     "year": 2018
+  },
+  {
+    "id": 10,
+    "thumbnail": "https://resizing.flixster.com/PyQVrv0QFQbmFYYCmd6oidSd0AU=/fit-in/200x296.2962962962963/v1.bTsxMzAxOTkzMjtqOzE4ODI1OzEyMDA7MTY4ODsyNTAw",
+    "link": "https://www.rottentomatoes.com/m/avengers_endgame",
+    "title": "Avengers: End Game",
+    "genre": "Sci-fi",
+    "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+    "rating": 9.4,
+    "year": 2019
+  },
+  {
+    "id": 11,
+    "thumbnail": "https://resizing.flixster.com/u5f_Q6Occ8qW4052ZYDCbUuZqGU=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzk0NjI0ODZmLTA2NDMtNGUxYS04M2JkLTI0MmE5MTVkNDgzNy53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/charlies_angels_2019",
+    "title": "Charlie's Angels",
+    "genre": "Action",
+    "description": "Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. But when the cutting edge technology falls into the wrong hands, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.",
+    "rating": 9.6,
+    "year": 2019
+  },
+  {
+    "id": 12,
+    "thumbnail": "https://resizing.flixster.com/_g1tU6m1i9uw9r0OnTlGgJNpJXg=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2EyNGQ3YzZmLTNkMTgtNDA1NS05MzI3LTYwYWE1MWY0ODE5Zi53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/zombieland_double_tap",
+    "title": "Zombieland:Double Tap",
+    "genre": "Action",
+    "description": "Zombie slayers Tallahassee, Columbus, Wichita and Little Rock leave the confines of the White House to travel to Graceland in Memphis, Tenn. Along the way, they encounter other post-apocalyptic warriors and a group of survivors who find refuge in a commune. The scrappy fighters must now rely on their wits and weapons more than ever as they soon find themselves in a relentless battle against smarter, faster and seemingly indestructible zombies.",
+    "rating": 9.0,
+    "year": 2019
+  },
+  {
+    "id": 13,
+    "thumbnail": "https://resizing.flixster.com/Fn16bwkQi-RlwYfs0Sgg53r_SaY=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzk3ODA0YzE3LTIwYWUtNDIzNi04MzZlLWMxODA5NTBkMWFmNy53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/aladdin",
+    "title": "Aladdin",
+    "genre": "Fantasy",
+    "description": "Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie. As Aladdin and the genie start to become friends, they must soon embark on a dangerous mission to stop the evil sorcerer Jafar from overthrowing young Jasmine's kingdom.",
+    "rating": 9.4,
+    "year": 2019
+  },
+  {
+    "id": 14,
+    "thumbnail": "https://resizing.flixster.com/tjFCnGQsGs0O1F5HPx9vaVyWzho=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYyYWU2MmIwLTE3NDMtNDJlZi04MzQ1LTViNjVjMzA3YTlkMi53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/the_lion_king_2019",
+    "title": "The Lion King",
+    "genre": "Fantasy",
+    "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny on the plains of Africa. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother -- and former heir to the throne -- has plans of his own. The battle for Pride Rock is soon ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. Now, with help from a curious pair of newfound friends, Simba must figure out how to grow up and take back what is rightfully his.",
+    "rating": 9.5,
+    "year": 2019
+  },
+  {
+    "id": 15,
+    "thumbnail": "https://resizing.flixster.com/kBmorcZ1u256R5vlVLes4uQDWTA=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzc5ZTJhYjFiLTkwNzMtNDdjZS1hY2Q2LTNlN2NjNTZiYWFmNC53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/toy_story_4",
+    "title": "Toy Story 4",
+    "genre": "Fantasy",
+    "description": "Woody, Buzz Lightyear and the rest of the gang embark on a road trip with Bonnie and a new toy named Forky. The adventurous journey turns into an unexpected reunion as Woody's slight detour leads him to his long-lost friend Bo Peep. As Woody and Bo discuss the old days, they soon start to realize that they're worlds apart when it comes to what they want from life as a toy.",
+    "rating": 9.4,
+    "year": 2019
+  },
+  {
+    "id": 16,
+    "thumbnail": "https://resizing.flixster.com/CLV6dasSZ4FDV4Qal_ZCuX_PcBY=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2FkZTI0OGQ1LTM5ZWMtNDJhYi04ODdjLTIxMWM1MjJhNTE2MS53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/captive_state",
+    "title": "Captive State",
+    "genre": "Action",
+    "description": "After 10 years of extraterrestrial occupation, residents of Chicago must decide whether to continue to live under alien rule or support the resistance. When young Gabriel Drummond joins the insurgency, he soon finds himself under careful scrutiny from a shadowy figure who's trying to crush the rebellion and its plans for freedom.",
+    "rating": 8.7,
+    "year": 2019
+  },
+  {
+    "id": 17,
+    "thumbnail": "https://resizing.flixster.com/vZtY51fS1BuC2KXIlRP8kkmp2LE=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzLzYxYTU0NjcwLWMxMzktNDQxNC05NDJkLTMwMzk4YWJmOWRhNi53ZWJw",
+    "link": "https://www.rottentomatoes.com/m/abominable",
+    "title": "Abominable",
+    "genre": "Comedy",
+    "description": "After discovering a Yeti on the roof of her apartment building, teenage Yi and her two friends embark on an epic quest to reunite the magical creature with his family. But to do so, they must stay one step ahead of a wealthy financier and a determined zoologist who want to capture the beast for their own gain.",
+    "rating": 9.5,
+    "year": 2019
   }
 ]
